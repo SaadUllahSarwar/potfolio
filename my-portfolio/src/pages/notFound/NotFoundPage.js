@@ -1,0 +1,15 @@
+import React from "react";
+
+function NotFoundPage() {
+  return (
+    <div>
+      <h1>404 Page Not Found</h1>
+      <p>
+        Sorry, the page you are looking for could not be found. Please check the
+        URL and try again.
+      </p>
+    </div>
+  );
+}
+
+export default NotFoundPage;

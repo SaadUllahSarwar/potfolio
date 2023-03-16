@@ -1,0 +1,6 @@
+.custom-navbar {
+    border-radius: 0;
+    box-shadow: 0 4px 8px rgba(181, 101, 101, 0.2);
+    margin:  0 0 20px 0 ;
+    border: 2px solid #dbd1d1;
+  }
